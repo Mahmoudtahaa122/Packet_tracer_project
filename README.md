@@ -22,7 +22,7 @@ This project is a simulation of a company's network infrastructure created using
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/company-network-simulation.git
+   git clone https://github.com/Mahmoudtahaa122/Packet_tracer_project/tree/main
    cd company-network-simulation
    ```
 
